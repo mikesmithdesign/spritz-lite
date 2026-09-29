@@ -21,7 +21,13 @@ Live demo: https://spritz-lite.vercel.app
 ## License
 
 Free for personal and commercial use. Attribution appreciated but not
-required. Don't resell or redistribute the template itself as a template.
+Free for personal and commercial use, including unlimited client projects. If you are building a site with it, attribution is appreciated but not required.
+
+Free template directories and galleries may host and redistribute this template at no charge, provided they credit Mike Smith Design, link to https://github.com/mikesmithdesign/spritz-lite, and keep this README and LICENSE.md with the download.
+
+Not permitted: selling this template, charging for access to it, or including it in a paid product, template pack or subscription.
+
+Full terms in LICENSE.md.
 
 Demo photos are Unsplash placeholders for preview only. Replace them with
 your own photography before going live.
