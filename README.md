@@ -46,4 +46,4 @@ The full Spritz theme adds the things this one can't do:
   switcher
 - Five-file JSON editing, no HTML required, plus a CMS-ready data layer
 
-https://mikesmithdesign.gumroad.com/l/spritz-astro-theme
+→ [Spritz, the full Astro theme for weddings](https://mikesmithdesign.co.uk/themes/spritz) (£30)
